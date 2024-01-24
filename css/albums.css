@@ -196,15 +196,11 @@ button:hover {
 
 
 
-.song {
-    display: flex;
-    flex-direction: column;
-    padding: 1%;
-}
+ 
 
 .playlist span {
     margin-top: 2%;
-    color: rgb(242, 62, 110);
+    color: rgb(82, 20, 36);
 }
 
 h4 {
